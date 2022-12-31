@@ -1,4 +1,4 @@
  - 👋 Hi, I’m @TurboRacecar
  - 👀 I’m interested in Game Development and Computer Science
  - I’m currently learning Python and HTML
- - ⚡ I love online games 🎮.
+ - ⚡ I like online games 🎮.
